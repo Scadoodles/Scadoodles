@@ -1,16 +1,93 @@
-### Hi there 👋
+<div align="center">
+  <h1>Scadoodles</h1>
+  <a href="https://linkedin.com/in/scadoodles"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+</div>
+<hr>
+<p>Senior Full-Stack Engineer with 20 years of hands-on experience designing, developing, and implementing web applications and solutions using a range of technologies and programming languages. Seeking to leverage this diverse skill set in a challenging engineering role.</p>
+<hr>
+<h3>Skills</h3>
+<h4>Things I Use On A Daily Basis</h4>
 
-<!--
-**Scadoodles/Scadoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LINUX](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![VIM](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-Here are some ideas to get you started:
+<h4>Front End Technologies</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Backbone.js](https://img.shields.io/badge/-Backbone-0071B5?style=for-the-badge&logo=backbonedotjs&logoColor=white)
+
+<h4>Server Side Technologies</h4>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Grunt](https://img.shields.io/badge/-Grunt-FAA918?style=for-the-badge&logo=grunt&logoColor=white)
+
+<h4>Cloud Certifications</h4>
+
+![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&color=FF9900&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+<h4>Databases</h4>
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+<h4>Other Languages I Speak</h4>
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Spanish](https://img.shields.io/badge/-Spanish-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+
+<h4>Platforms I've Worked With</h4>
+
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+<h4>I'm Pretty Handy With Graphics As Well</h4>
+
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/-InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+
+<hr>
+<h2>Experience</h2>
+
+Nexstar Media Group - Senior Full-Stack Engineer
+February 2013 - August 2019
+Managed, designed, developed, and maintained over 30 agency and in-house web projects, including web solutions for industry leading companies.
+Directed the development of a hubspot framework and toolkit for rapid website development and deployment, resulting in a 75% decrease in development time.
+Developed an industry leading social media advertising and analytics platform responsible for millions of dollars in monthly ad spend across Facebook, X (Twitter), Instagram, Pinterest, and more.
+Simultaneously managed multiple cross functional development projects with various engineering, design, social, and marketing teams.
+Hired, trained, and managed 8 junior developers.
+Internet Brands - Lead Engineer
+March 2011 - February 2013
+Lead Engineer for FitDay.com, a fitness and calorie tracking web and phone application supporting over 7 million users and generating over 10 million monthly impressions.
+Converted a custom CGI web stack to a robust modern single page application supported by a REST LAMP backend.
+Engineered and developed HIPAA compliant web services to connect users with professional dietitians.
+Managed a 5 person dedicated development and design team and an extended 6 person team including devops and QA testers.
+Supported development for several other brands and verticals, including CarsDirect.com and FlyerTalk.com.
+Adage Graphics - Production Engineer
+July 2010 - March 2011
+Developed several lead generation and ecommerce websites, generating a 300% increase in DTC product sales.
+Oversaw end-to-end production of printed products, from scheduling and design to fabrication, packaging, and timely shipping.
+Designed and optimized prepress graphics utilizing Adobe Illustrator, Photoshop, and InDesign.
+Operated large format printers, laminators, and cutting machines.
+Absolute Exhibits	MediaBlend	Ivar's Displays
+Lead Engineer	Web Developer/Designer	Webmaster/Graphic Designer
+July 2007 - July 2010	January 2007 - July 2007	August 2003 - May 2006
