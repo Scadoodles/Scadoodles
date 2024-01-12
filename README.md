@@ -86,6 +86,7 @@ _February 2013 - August 2019_
 - Simultaneously managed multiple cross functional development projects with various engineering, design, social, and marketing teams.
 - Hired, trained, and managed 8 junior developers.
 
+
 ### Internet Brands
 #### _Lead Engineer_
 _March 2011 - February 2013_
@@ -95,6 +96,7 @@ _March 2011 - February 2013_
 - Managed a 5 person dedicated development and design team and an extended 6 person team including devops and QA testers.
 - Supported development for several other brands and verticals, including CarsDirect.com and FlyerTalk.com.
 
+
 ### Adage Graphics
 #### _Production Engineer_
 _July 2010 - March 2011_
@@ -103,13 +105,16 @@ _July 2010 - March 2011_
 - Designed and optimized prepress graphics utilizing Adobe Illustrator, Photoshop, and InDesign.
 - Operated large format printers, laminators, and cutting machines.
 
+
 ### Absolute Exhibits
 #### _Lead Engineer_
 _July 2007 - July 2010_
 
+
 ### MediaBlend
 #### _Web Developer/Designer_
 _January 2007 - July 2007_
+
 
 ### Ivar's Displays
 #### _Webmaster/Graphic Designer_
@@ -130,6 +135,7 @@ _August 2003 - May 2006_
 - Corporate information, news, investment, and careers website.
 - A single page site developed with react, express, and node.
 - Uses GraphQL to connect to a 3rd party CMS.
+
 
 ### Hyatt Residence Club
 #### _Lead/Solo Developer_
@@ -174,6 +180,7 @@ _August 2003 - May 2006_
 - Connected to social media platforms including Facebook, Twitter, Instagram, and Google Plus.
 - Connected to major foreign platforms like VKontakte and Sine Weibo.
 - Sustained peak at over 1 million social posts per month.
+
 
 ### FitDay
 #### _Lead Developer_
