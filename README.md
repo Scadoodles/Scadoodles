@@ -22,7 +22,7 @@
 ![LINUX](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![VIM](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-<h4>Front End Technologies</h4>
+<h4>Front End Technologies I Know Well</h4>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) <!--
 ![Angular](https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
@@ -30,7 +30,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Backbone.js](https://img.shields.io/badge/-Backbone-0071B5?style=for-the-badge&logo=backbonedotjs&logoColor=white)
 
-<h4>Server Side Technologies</h4>
+<h4>Server Side Technologies I'm Good At</h4>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) <!--
@@ -39,12 +39,12 @@
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Grunt](https://img.shields.io/badge/-Grunt-FAA918?style=for-the-badge&logo=grunt&logoColor=white)
 <!--
-<h4>Cloud Certifications</h4>
+<h4>Cloud Certifications I Have</h4>
 
 ![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&color=FF9900&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) -->
 
-<h4>Database</h4>
+<h4>Database Technologies I Use</h4>
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) <!--
