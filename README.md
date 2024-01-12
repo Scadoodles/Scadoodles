@@ -3,7 +3,7 @@
   <a href="#skills"><img src="https://img.shields.io/badge/Skills-5AA9E6?style=for-the-badge&logoColor=white" /></a>
   <a href="#experience"><img src="https://img.shields.io/badge/Experience-F4442E?style=for-the-badge&logoColor=white" /></a>
   <a href="#portfolio"><img src="https://img.shields.io/badge/Portfolio-F5B700?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/scadoodles"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/scadoodles" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 </div>
 <hr>
 <p>Senior Full-Stack Engineer with 20 years of hands-on experience designing, developing, and implementing web applications and solutions using a range of technologies and programming languages. Seeking to leverage this diverse skill set in a challenging engineering role.</p>
