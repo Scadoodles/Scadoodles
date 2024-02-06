@@ -58,7 +58,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-D30001?style=for-the-badge&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Spanish](https://img.shields.io/badge/-Spanish-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+<!-- ![Spanish](https://img.shields.io/badge/-Spanish-58CC02?style=for-the-badge&logo=duolingo&logoColor=white) -->
 
 <h4>Platforms I've Worked With</h4>
 
