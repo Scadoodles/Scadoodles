@@ -6,7 +6,8 @@
   <a href="https://linkedin.com/in/scadoodles" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 </div>
 <hr>
-<p>Senior Full-Stack Engineer with 20 years of hands-on experience designing, developing, and implementing web applications and solutions using a range of technologies and programming languages. Seeking to leverage this diverse skill set in a challenging engineering role.</p>
+<p>Software Development Manager | Leading high-performing teams to deliver scalable, optimized web solutions.</p>
+<p>20+ years of full stack engineering experience, with a focus on technical leadership, cross-functional collaboration, and driving innovation in a fast pace environment.</p>
 
 <hr>
 
@@ -76,6 +77,17 @@
 <hr>
 
 ## Experience
+
+### Purple Wave
+#### _Software Development Manager_
+_February 2024 - Present_
+- Simultaneously managed three full-stack development teams, including QA testers, UI/UX designers, and engineers, ensuring cohesive collaboration and successful project delivery.
+- Oversaw and mentored both remote U.S.-based and international employees, maintaining strong communication and performance across distributed teams.
+- Conducted regular code reviews to ensure code quality, performance optimization, and adherence to best practices, while managing project risks and identifying potential technical challenges.
+- Spearheaded and organized a company-wide hackathon, driving massive innovation and resulting in the development of 10 new software products.
+- Led the development of internal utility libraries aimed at optimizing development processes and promoting best practices across teams, improving code reuse, and accelerating project timelines.
+- Developed a company-wide browser extension that allows developers and QA testers to rapidly switch roles, contexts, and environments for testing, streamlining the testing process and significantly improving efficiency across teams.
+
 
 ### Nexstar Media Group
 #### _Senior Full Stack Engineer_
